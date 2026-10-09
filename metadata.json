@@ -1,0 +1,6 @@
+{
+  "name": "ExpresswayTicket - Flight Reservation & Onward Ticket Platform",
+  "description": "High-converting, automated flight reservation and onward ticket booking platform with verifiable GDS PNR generation, fast-pass routes, customer retrieval, and an operations admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
